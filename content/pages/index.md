@@ -20,7 +20,8 @@ sections:
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
       can continue to scroll down to see more details and credentials about
-      me.Gggghju
+      me.Gggghju i am trying to add new features here like to check the
+      permitivity of free space
     styles:
       self:
         height: auto
